@@ -5,7 +5,6 @@
 ## 📁 文件说明
 - `GPT_weights_v2/`: 存放 .ckpt 格式的 GPT 权重文件
 - `SoVITS_weights_v2/`: 存放 .pth 格式的 SoVITS 权重文件
-- `config.json`: 模型推理配置文件
 
 ## 🛠️ 推理建议
 - **底模版本**: GPT-SoVITS V2
